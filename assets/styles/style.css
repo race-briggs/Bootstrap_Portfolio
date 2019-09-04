@@ -1,5 +1,5 @@
 body {
-  background-color: #c5d3e8;
+  background-color: #629efc;
 }
 
 h1 {
@@ -17,4 +17,8 @@ h1 {
 
 .padding {
   padding: 1%;
+}
+
+.footer-margin {
+  height: 100px;
 }
