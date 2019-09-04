@@ -1,12 +1,20 @@
+body {
+  background-color: #c5d3e8;
+}
+
 h1 {
   text-align: center;
 }
 
 .padding-top {
-  padding-top: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 .rounded-img {
   border-radius: 50%;
 }
 
+.padding {
+  padding: 1%;
+}
