@@ -1,5 +1,12 @@
+html {
+  margin: 0;
+  height: 100%;
+}
+
 body {
   background-color: #629efc;
+  margin-bottom: 0;
+  height: 100%;
 }
 
 h1 {
@@ -19,6 +26,6 @@ h1 {
   padding: 1%;
 }
 
-.footer-margin {
-  height: 100px;
+.form-corrector {
+  padding-bottom: 20%;
 }
